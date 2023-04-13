@@ -1,0 +1,3 @@
+#######en-tête##############
+Nom livre;Auteur livre;Date début lecture;Date fin lecture;Note
+############################
