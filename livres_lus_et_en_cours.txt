@@ -4,4 +4,5 @@ Nom livre;Auteur livre;Date début lecture;Date fin lecture;Note
 Trois vies par semaine;Michel Bussi;05/04/2023;08/04/2023;4
 Fils de personne;Jean-François Pasques;08/04/2023;13/04/2023;4
 En attendant le jour;Michael Connelly;13/04/2023;16/04/2023;4
-Le temps est assassin;Michel Bussi;16/04/2023;en cours;
+Le temps est assassin;Michel Bussi;16/04/2023;23/04/2023;4.5
+Terra Alta;Javier Cercas;23/04/2023;en cours;
