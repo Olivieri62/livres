@@ -5,4 +5,7 @@ Trois vies par semaine;Michel Bussi;05/04/2023;08/04/2023;4
 Fils de personne;Jean-François Pasques;08/04/2023;13/04/2023;4
 En attendant le jour;Michael Connelly;13/04/2023;16/04/2023;4
 Le temps est assassin;Michel Bussi;16/04/2023;23/04/2023;4.5
-Terra Alta;Javier Cercas;23/04/2023;en cours;
+Terra Alta;Javier Cercas;23/04/2023;04/05/2023;4.5
+Le bureau des affaires occultes tome 2 : le fantôme du vicaire;Eric Fouassier;04/05/2023;06/05/2023;4
+Mortelle canicule;Jean-François Pasque;06/05/2023;08/05/2023;3.5
+L'innocence et la loi ; Michael Connelly;08/05/2023;en cours;
